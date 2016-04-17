@@ -75,9 +75,8 @@ $LANG = array(
 'L_CAT_META_KEYWORDS'			    => 'Contengut de la balisa meta "keywords" per aquesta categoria (opcion)',
 
 #create product/cat
-'CREATE_PRODUCTS_CATS'              => 'Creacion e modificacion ',
-'CREATE_PRODUCTS'              => 'dels produits',
-'CREATE_CATS'              => 'de las categorias',
+'CREATE_PRODUCTS'                   => 'Creacion e modificacion dels produits',
+'CREATE_CATS'                       => 'Creacion e modificacion de las categorias',
 'L_CAT'              => 'Categoria',
 #commandes
 'LIST_ORDERS'                                  => 'Lista de las comandas',
