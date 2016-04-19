@@ -63,8 +63,10 @@ $LANG = array(
 'L_PRODUCT_UNKNOWN_PAGE'			=> 'Aqueste produit existís pas o existís pas mai !',
 'L_PRODUCT_TITLE'					=> 'Modificacion del produit',
 'L_CAT_TITLE'					    => 'Modificacion de la categoria',
-'L_PRODUCT_VIEW_PAGE'				=> 'Visualizar lo produit',
-'L_CAT_VIEW_PAGE'				    => 'Visualizar la categoria del produit',
+
+'L_PRODUCT_VIEW_PAGE_ON_SITE'		=> 'Visualizar lo produit',
+'L_CAT_VIEW_PAGE_ON_SITE'			=> 'Visualizar la categoria del produit',
+
 'L_PRODUCT_ON_SITE'					=> 'sul site',
 'L_PRODUCT_UPDATE'					=> 'Enregistrar aqueste produit',
 'L_CAT_UPDATE'					    => 'Enregistrar aquesta categoria',
@@ -73,11 +75,12 @@ $LANG = array(
 'L_CAT_META_DESCRIPTION'		    => 'Contengut de la balisa meta "description" per aquesta categoria (opcion)',
 'L_PRODUCT_META_KEYWORDS'			=> 'Contengut de la balisa meta "keywords" per aqueste produit (opcion)',
 'L_CAT_META_KEYWORDS'			    => 'Contengut de la balisa meta "keywords" per aquesta categoria (opcion)',
-
 #create product/cat
 'CREATE_PRODUCTS'                   => 'Creacion e modificacion dels produits',
 'CREATE_CATS'                       => 'Creacion e modificacion de las categorias',
+
 'L_CAT'              => 'Categoria',
+
 #commandes
 'LIST_ORDERS'                                  => 'Lista de las comandas',
 
